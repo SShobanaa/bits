@@ -10,7 +10,20 @@
 
 - **GitHub Repository Link:** [Submission](https://github.com/SShobanaa/bits)
 - **Live Streamlit Deployment Link:** [Breast Cancer Prediction - Classification Models Evaluation](https://fo7zbv7gpnyykmdm8oqsvq.streamlit.app/)
-- **BITS Virtual Lab Screenshot:** `[Insert BITS Virtual Lab execution screenshot here]`
+- **BITS Virtual Lab Screenshot:** `[BITS Virtual Lab execution screenshot here]`
+
+1. Running the Streamlit app on BITS Lab
+  <img width="1789" height="1040" alt="image" src="https://github.com/user-attachments/assets/bfe83faa-1666-491f-988d-6047ec32be22" />
+2. App running locally on BITS Lab
+   <img width="1781" height="1047" alt="image" src="https://github.com/user-attachments/assets/1bd7afdc-5972-4e1f-be65-131d4724ae6c" />
+3. Uploading 'test_data.csv' on BITS Lab
+   <img width="1792" height="1054" alt="image" src="https://github.com/user-attachments/assets/3da789a7-973c-4405-8b34-1fd9b8c75860" />
+4. Prediction results on BITS Lab
+   <img width="1779" height="1061" alt="image" src="https://github.com/user-attachments/assets/2d68ede2-5235-4203-a27c-18c7650cfba7" />
+5. Running App on streamlit.io/cloud - [Breast Cancer Prediction - Classification Models Evaluation](https://fo7zbv7gpnyykmdm8oqsvq.streamlit.app/)
+   <img width="1782" height="1060" alt="image" src="https://github.com/user-attachments/assets/7e53990d-d991-4972-9d29-3f9aa0f5981d" />
+6. App functionalities
+   <img width="1787" height="1050" alt="image" src="https://github.com/user-attachments/assets/d81f526a-2972-4bd2-bbcc-ffc5b18d6fa5" />
 
 ## Problem Statement
 

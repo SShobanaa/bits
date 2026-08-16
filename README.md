@@ -8,8 +8,8 @@
 
 ## Submission Links and Evidence
 
-- **GitHub Repository Link:** `[Paste GitHub repository URL here]`
-- **Live Streamlit Deployment Link:** `[Paste Streamlit Community Cloud URL here]`
+- **GitHub Repository Link:** [Submission](https://github.com/SShobanaa/bits)
+- **Live Streamlit Deployment Link:** [Breast Cancer Prediction - Classification Models Evaluation](https://fo7zbv7gpnyykmdm8oqsvq.streamlit.app/)
 - **BITS Virtual Lab Screenshot:** `[Insert BITS Virtual Lab execution screenshot here]`
 
 ## Problem Statement
@@ -120,18 +120,16 @@ For this test split, Logistic Regression is the strongest overall choice. Random
 
 - Upload a CSV test dataset or automatically evaluate the bundled `test_data.csv`.
 - Select one or more trained models.
-- Display predictions and class probabilities for the first ten test samples.
 - Display Accuracy, AUC, Precision, Recall, F1 Score, and MCC.
 - Show a confusion matrix with labeled TN, FP, FN, and TP cells.
 - Show a per-class classification report.
 - Compare selected models in a ranked table and performance graph.
-- Show expandable, dataset-specific observation explanations and tables.
-- Provide responsive layout, sidebar project information, and blue-gradient visual styling.
+- Display predictions and class probabilities for the first ten test samples.
 
 ## Repository Structure
 
 ```text
-ML/Assignment_2/
+bits/
 ├── app.py
 ├── requirements.txt
 ├── README.md
@@ -161,7 +159,7 @@ The trained model files must be present in the `models/` directory. To retrain t
 
 ## How to Run
 
-From the `ML/Assignment_2` directory:
+From the `bits` directory:
 
 ```bash
 streamlit run app.py

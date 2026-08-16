@@ -6,6 +6,12 @@
 - **Course:** Machine Learning (ML)
 - **Institution:** BITS Pilani
 
+## Submission Links and Evidence
+
+- **GitHub Repository Link:** `[Paste GitHub repository URL here]`
+- **Live Streamlit Deployment Link:** `[Paste Streamlit Community Cloud URL here]`
+- **BITS Virtual Lab Screenshot:** `[Insert BITS Virtual Lab execution screenshot here]`
+
 ## Problem Statement
 
 This project builds and compares five classification models for the Breast Cancer Wisconsin Diagnostic dataset. The models predict whether a tumor is malignant or benign from 30 numeric measurements derived from digitized fine needle aspirate images of breast masses.

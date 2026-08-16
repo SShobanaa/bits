@@ -8,7 +8,7 @@
 
 ## Submission Links and Evidence
 
-- **GitHub Repository Link:** `[Paste GitHub repository URL here]`
+- **GitHub Repository Link:** `https://github.com/SShobanaa/bits/tree/submission/Machine_Learning/Assignment_2/project-folder`
 - **Live Streamlit Deployment Link:** `[Paste Streamlit Community Cloud URL here]`
 - **BITS Virtual Lab Screenshot:** `[Insert BITS Virtual Lab execution screenshot here]`
 

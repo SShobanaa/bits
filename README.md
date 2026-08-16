@@ -10,7 +10,7 @@
 
 - **GitHub Repository Link:** [Submission](https://github.com/SShobanaa/bits)
 - **Live Streamlit Deployment Link:** [Breast Cancer Prediction - Classification Models Evaluation](https://fo7zbv7gpnyykmdm8oqsvq.streamlit.app/)
-- **BITS Virtual Lab Screenshot:** `[BITS Virtual Lab execution screenshot here]`
+- **BITS Virtual Lab Screenshot:** `BITS Virtual Lab execution screenshot below`
 
 1. Running the Streamlit app on BITS Lab
   <img width="1789" height="1040" alt="image" src="https://github.com/user-attachments/assets/bfe83faa-1666-491f-988d-6047ec32be22" />

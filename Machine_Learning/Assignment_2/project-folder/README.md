@@ -10,7 +10,7 @@
 
 - **GitHub Repository Link:** [Submission](https://github.com/SShobanaa/bits/tree/submission/Machine_Learning/Assignment_2/project-folder)
 - **Live Streamlit Deployment Link:** [Breast Cancer Prediction - Classification Models Evaluation](https://fo7zbv7gpnyykmdm8oqsvq.streamlit.app/)
-- **BITS Virtual Lab Screenshot:** [BITS Virtual Lab execution screenshot](Machine_Learning/Assignment_2/project-folder/screenshots)
+- **BITS Virtual Lab Screenshot:** [BITS Virtual Lab execution screenshot](https://github.com/SShobanaa/bits/edit/submission/Machine_Learning/Assignment_2/project-folder/screenshots)
 
 ## Problem Statement
 
